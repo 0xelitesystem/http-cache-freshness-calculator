@@ -91,9 +91,9 @@ This is an independent tool. It is not affiliated with or endorsed by the IETF o
 
 ## Related
 
-- https://github.com/0xelitesystem/http-header-analyzer
+- https://github.com/0xelitesystem/http-header-explainer
 - https://github.com/0xelitesystem/caching-basics-reference
-- https://github.com/0xelitesystem/http-status-codes-reference
+- https://github.com/0xelitesystem/http-status-classes-reference
 
 ## License
 
